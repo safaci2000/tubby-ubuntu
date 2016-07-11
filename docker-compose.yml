@@ -1,0 +1,5 @@
+version: '2'
+services:    
+  tubby-ubuntu:
+      build: ./
+      image: safaci2000/tubby-ubuntu
